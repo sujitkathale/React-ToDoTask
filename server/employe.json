@@ -1,0 +1,112 @@
+{
+  "Registration": [
+    {
+      "firstname": "Akash",
+      "lastname": "patil",
+      "username": "Apatil",
+      "email": "akash@gmail.com",
+      "password": "12345678",
+      "conpassword": "12345678",
+      "id": "1"
+    },
+    {
+      "firstname": "sujit",
+      "lastname1": "kathale",
+      "username": "sujit",
+      "email": "sujit@gmail.com",
+      "password": "12345678",
+      "conpassword": "12345678",
+      "id": "rFAJ3EI"
+    },
+    {
+      "firstname": "Rajan",
+      "lastname1": "Dahake",
+      "username": "rajan007",
+      "email": "rajan@gmail.com",
+      "password": "rajan12345",
+      "conpassword": "rajan12345",
+      "id": "3LKITeE"
+    },
+    {
+      "firstname": "Sumit",
+      "lastname1": "Dube",
+      "username": "mercey",
+      "email": "sumit@gmail.com",
+      "password": "sumit12345",
+      "conpassword": "sumit12345",
+      "id": "ycryhyJ"
+    },
+    {
+      "firstname": "Ravindra",
+      "lastname1": "Surwase",
+      "username": "rutu",
+      "email": "ravindra@gmail.com",
+      "password": "ravi12345",
+      "conpassword": "ravi12345",
+      "id": "ksUjV20"
+    },
+    {
+      "firstname": "Nikhil",
+      "lastname1": "Patil",
+      "username": "nickkk",
+      "email": "nikhil@gmail.com",
+      "password": "nikhil1234",
+      "conpassword": "nikhil1234",
+      "id": "cLYcIaW"
+    },
+    {
+      "firstname": "sumit",
+      "lastname1": "dube",
+      "username": "summm",
+      "email": "sumit11@gmail.com",
+      "password": "12345678",
+      "conpassword": "12345678",
+      "id": "xHLGH9c"
+    },
+    {
+      "firstname": "rajan",
+      "lastname1": "Dahake",
+      "username": "raj",
+      "email": "raj@gmail.com",
+      "password": "12345678",
+      "conpassword": "12345678",
+      "id": "orfcMEo"
+    },
+    {
+      "firstname": "",
+      "lastname1": "",
+      "username": "raj007",
+      "email": "",
+      "password": "",
+      "conpassword": "",
+      "id": "Zp6kASI"
+    },
+    {
+      "firstname": "rajesh",
+      "lastname1": "alane",
+      "username": "rajeshcod",
+      "email": "rajesh@gmail.com",
+      "password": "raj123456",
+      "conpassword": "raj123456",
+      "id": "h0RRSmb"
+    },
+    {
+      "firstname": "virat",
+      "lastname1": "kohli",
+      "username": "vk18",
+      "email": "virat@gmail.com",
+      "password": "virat018",
+      "conpassword": "virat018",
+      "id": "bFAvgdF"
+    },
+    {
+      "firstname": "Rohit",
+      "lastname1": "Sharma",
+      "username": "hitman",
+      "email": "rohit@gmail.com",
+      "password": "hitman123",
+      "conpassword": "hitman123",
+      "id": "mWxLZ-K"
+    }
+  ]
+}
